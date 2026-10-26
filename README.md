@@ -38,4 +38,3 @@ Passionate about building lightweight desktop utilities, high-performance web ap
 - 📦 **Modrinth:** [GamerAlti Profile](https://modrinth.com/user/GamerAlti)
 - 💻 **GitHub:** [@Ayaan192](https://github.com/Ayaan192)
 - 📍 **Location:** Nepal 🇳🇵
-- 

@@ -1,6 +1,6 @@
 # GamerAlti-DevAlti
 About GamerAlti/DevAlti
-# Hi there, I'm Ayaan Ansari 👋 (DevAlti / GamerAlti)
+# Hi there, I'm Ayaan Ansari 👋 (GamerAlti/DevAlti)
 
 Full-stack & C# developer based in Nepal 🇳🇵.  
 Passionate about building lightweight desktop utilities, high-performance web applications, and system optimizations.

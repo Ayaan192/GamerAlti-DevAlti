@@ -62,16 +62,18 @@
 
     <!-- Embedded SEO Person Schema (JSON-LD) -->
     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
     {
-      "@context": "https://schema.org",
       "@type": "Person",
       "name": "Ayaan Ansari",
       "alternateName": ["DevAlti", "GamerAlti"],
       "jobTitle": "Full-Stack & C# Developer",
       "address": {
         "@type": "PostalAddress",
-        "addressCountry": "NP",
-        "addressLocality": "Nepal"
+        "addressLocality": "Kathmandu",
+        "addressCountry": "NP"
       },
       "knowsAbout": [
         "C#",
@@ -84,10 +86,35 @@
       ],
       "sameAs": [
         "https://github.com/Ayaan192",
-        "https://modrinth.com/user/GamerAlti"
+        "https://modrinth.com/user/GamerAlti",
+        "https://www.linkedin.com/in/gameralti-devalti/"
       ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Glass Tweaks",
+      "operatingSystem": "Windows 11",
+      "applicationCategory": "DeveloperApplication",
+      "author": {
+        "@type": "Person",
+        "name": "Ayaan Ansari"
+      },
+      "description": "A C# .NET Windows system optimization application featuring system diagnostic scoring and hardware monitoring."
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "casually-optimized (Altifine)",
+      "operatingSystem": "Windows, Linux, macOS",
+      "applicationCategory": "GameModpack",
+      "author": {
+        "@type": "Person",
+        "name": "Ayaan Ansari"
+      },
+      "description": "A client-side Fabric performance modpack for Minecraft Java Edition focused on FPS boost and smooth PvP mechanics."
     }
-    </script>
+  ]
+}
+</script>
 
     <style>
         body {
